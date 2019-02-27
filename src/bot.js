@@ -4,7 +4,7 @@ const config = require("./config.json");
 const dado = require("./dado.js");
 
 ////Link add bot
-//// discordapp.com/oauth2/authorize?=&client_id=549802513457610753&scope=bot&permissions=2048
+//// ha
 
 client.on("ready", () => {
     console.log(`--> ready: Bot iniciado, com ${client.users.size} usuários, em ${client.channels.size} canais, em ${client.guilds.size} servidores.`);
